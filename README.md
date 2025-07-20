@@ -53,13 +53,10 @@ This repository contains **two main files**:
 
 ## 🚀 Install requirements 
 
-pip install pandas matplotlib seaborn wordcloud networkx
-
-Open the notebook:
-
-jupyter notebook Netflix_Analysis.ipynb
-
-Run all cells & explore!
+- pip install pandas matplotlib seaborn wordcloud 
+- Open the notebook:
+  -- jupyter notebook Netflix_Analysis.ipynb
+  -- Run all cells & explore!
 
 ## 🙌 Connect
 
