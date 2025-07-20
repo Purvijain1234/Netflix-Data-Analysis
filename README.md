@@ -65,7 +65,7 @@ This repository contains **two main files**:
 **1️⃣ Distribution of Content Type**
 
 <p align="center">
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
+<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
 </p>
 
 This pie chart shows the split between Movies and TV Shows on Netflix.
