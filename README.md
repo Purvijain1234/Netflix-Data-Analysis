@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analysis 📊
 
-This project is a comprehensive data visualization of Netflix’s content library using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
+This project is a comprehensive data visualization of Netflix’s content library using **Python**, **Pandas**,  **NumPy**, **Matplotlib**, and **Seaborn**.
 
 ---
 
@@ -28,22 +28,10 @@ This repository contains **two main files**:
 
 ---
 
-
-## 📊 Visualizations Included
-
-✔️ **Total Content Added Over the Years**  
-✔️ **Heatmap of Content Type by Release Year**  
-✔️ **Top 10 Countries Producing Netflix Content**  
-✔️ **Content Type Distribution**  
-✔️ **Top 10 Genres**    
-✔️ **Word Cloud — Popular Words in Descriptions**  
-✔️ **Movies vs TV Shows Trend Over Years**  
-
----
-
 ## ⚙️ Tools Used
 
-- Python 
+- Python
+- NumPy
 - Pandas
 - Matplotlib
 - Seaborn
@@ -53,7 +41,7 @@ This repository contains **two main files**:
 
 ## 🚀 Install requirements 
 
-- pip install pandas matplotlib seaborn wordcloud 
+- pip install pandas numpy matplotlib seaborn wordcloud 
 - Open the notebook:
   
   -- jupyter notebook Netflix_Analysis.ipynb
@@ -65,7 +53,7 @@ This repository contains **two main files**:
 **1️⃣ Distribution of Content Type**
 
 <p align="center">
-<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
 </p>
 
 This pie chart shows the split between Movies and TV Shows on Netflix.
