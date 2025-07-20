@@ -66,7 +66,7 @@ This repository contains **two main files**:
 
 **1️⃣ Distribution of Content Type**
 
-<img width="609" height="524" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/40e0af16-39cc-4c0a-8cd4-c32698768608" />
 
 This pie chart shows the split between Movies and TV Shows on Netflix.
 
@@ -74,7 +74,7 @@ This pie chart shows the split between Movies and TV Shows on Netflix.
 
 **2️⃣ Top 10 Genres**
 
-<img width="1205" height="553" alt="Image" src="https://github.com/user-attachments/assets/7ae3cdf8-0a71-4442-937e-3a9af4c9d840" />
+<img width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/7ae3cdf8-0a71-4442-937e-3a9af4c9d840" />
 
 Horizontal bar chart showing which genres are most common.
 
@@ -82,14 +82,14 @@ Horizontal bar chart showing which genres are most common.
 
 **3️⃣ Heatmap by Release Year**
 
-<img width="1168" height="633" alt="Image" src="https://github.com/user-attachments/assets/00261ffd-52b6-4b7c-bca5-681863877852" />
+<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/00261ffd-52b6-4b7c-bca5-681863877852" />
 Heatmap visualizing the number of Movies vs TV Shows added over the last 20 years.
 
 ---
 
 **4️⃣ Most Common Words**
 
-<img width="824" height="439" alt="Image" src="https://github.com/user-attachments/assets/12362bb5-f754-487c-b064-16294f009add" />
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/12362bb5-f754-487c-b064-16294f009add" />
 
 Word Cloud highlighting frequently used words in Netflix descriptions.
 
@@ -97,7 +97,7 @@ Word Cloud highlighting frequently used words in Netflix descriptions.
 
 **5️⃣ Movies vs TV Shows Trend**
 
-<img width="801" height="420" alt="Image" src="https://github.com/user-attachments/assets/2a783dd1-85fb-4a31-9da0-be7b86b2050f" />
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/2a783dd1-85fb-4a31-9da0-be7b86b2050f" />
 
 Line chart comparing how Movies and TV Shows were added over time.
 
