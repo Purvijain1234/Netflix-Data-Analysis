@@ -24,7 +24,7 @@ This notebook explores how Netflix’s content library has grown and evolved ove
 
 This repository contains **two main files**:
 - **`Netflix_Analysis.ipynb`** — Jupyter Notebook with full Python code and visualizations.
-- **`Netflix_Analysis.csv`** — The cleaned dataset used for this analysis.
+- **`netflix_titles.csv`** — The cleaned dataset used for this analysis.
 
 ---
 
