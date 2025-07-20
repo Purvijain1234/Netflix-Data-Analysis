@@ -4,14 +4,6 @@ This project is a comprehensive data visualization of Netflix’s content librar
 
 ---
 
-## 📂 Files Included
-
-This repository contains **two main files**:
-- **`Netflix_Analysis.ipynb`** — Jupyter Notebook with full Python code and visualizations.
-- **`Netflix_Analysis.csv`** — The cleaned dataset used for this analysis.
-
----
-
 ## 📌 Project Overview
 
 Netflix is the world’s biggest streaming platform.  
@@ -27,6 +19,15 @@ This notebook explores how Netflix’s content library has grown and evolved ove
 - What keywords stand out in descriptions?
 
 ---
+
+## 📂 Files Included
+
+This repository contains **two main files**:
+- **`Netflix_Analysis.ipynb`** — Jupyter Notebook with full Python code and visualizations.
+- **`Netflix_Analysis.csv`** — The cleaned dataset used for this analysis.
+
+---
+
 
 ## 📊 Visualizations Included
 
@@ -55,10 +56,13 @@ This notebook explores how Netflix’s content library has grown and evolved ove
 pip install pandas matplotlib seaborn wordcloud networkx
 
 Open the notebook:
+
 jupyter notebook Netflix_Analysis.ipynb
+
 Run all cells & explore!
 
 ## 🙌 Connect
 
 If you liked this, feel free to ⭐ the repo or connect with me on LinkedIn!
+
 LinkedIn - https://www.linkedin.com/in/purvi-jain-315683326/
